@@ -30,7 +30,7 @@ Publications
 * Ping Li, Xiaoyun Li and Cun-Hui Zhang. Re-randomized Densification for One Permutation Hashing and Bin-wise Consistent Weighted Sampling, NeurIPS 2019.
 * Xiaoyun Li, Chenxi Wu and Ping Li. IVFS: Simple and Efficient Feature Selection for High Dimensional Topology Preservation, AAAI 2020.
 * Xiaoyun Li, Jie Gui and Ping Li. Randomized Kernel Multi-view Discriminant Analysis, ECAI 2020.
-* Ping Li, Xiaoyun Li, Weijie Zhao and Gennady Samorodnitsky. Consistent Sampling Through Extremal Process, WWW 2021.
+* Ping Li, Xiaoyun Li, Weijie Zhao and Gennady Samorodnitsky. Consistent Sampling Through Extremal Process, The Web Conference (WWW) 2021.
 * Xiaoyun Li and Ping Li. Rejection Sampling for Weighted Jaccard Similarity Revisited, AAAI 2021.
 * Xiaoyun Li and Ping Li. One Sketch for All: Non-linear Random Features from Compressed Linear Measurements, AISTATS 2021.
 * Xiangyi Chen, Xiaoyun Li and Ping Li. Towards Communication-Efficient Adaptive Gradient Methods, FODS 2020.
