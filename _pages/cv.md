@@ -33,9 +33,8 @@ Publications
 * Ping Li, Xiaoyun Li and Gennady Samorodnitsky. Consistent Sampling Through Extremal Process, WWW 2021.
 * Xiaoyun Li and Ping Li. Rejection Sampling for Weighted Jaccard Similarity Revisited, AAAI 2021.
 * Xiaoyun Li and Ping Li. One Sketch for All: Non-linear Random Features from Compressed Linear Measurements, AISTATS 2021.
-* Xiangyi Chen, Xiaoyun Li and Ping Li. Towards Communication-Efficient Adaptive Methods, FODS 2020.
+* Xiangyi Chen, Xiaoyun Li and Ping Li. Towards Communication-Efficient Adaptive Gradient Methods, FODS 2020.
 * Tan Yu, Xiaoyun Li and Ping Li. Fast and Compact Bilinear Pooling, AAAI 2021.
-
 
 Service and leadership
 ======
