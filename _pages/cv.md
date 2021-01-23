@@ -35,6 +35,7 @@ Publications
 * Xiaoyun Li and Ping Li. One Sketch for All: Non-linear Random Features from Compressed Linear Measurements, AISTATS 2021.
 * Xiangyi Chen, Xiaoyun Li and Ping Li. Towards Communication-Efficient Adaptive Gradient Methods, FODS 2020.
 * Tan Yu, Xiaoyun Li and Ping Li. Fast and Compact Bilinear Pooling, AAAI 2021.
+* Working papers and pre-prints are too lazy to show up here...
 
 Service and leadership
 ======
