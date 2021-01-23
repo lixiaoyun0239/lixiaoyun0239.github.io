@@ -18,7 +18,10 @@ Work experience
 ======
 * Baidu Research Institute
 
-  
+Interests
+======
+Statistics, Machine Learning, Randomized Algorithms, Optimization, Basketball, Guitar, Eating... and anything interesting!
+
 Publications
 ======
   <ul>{% for post in site.publications %}
