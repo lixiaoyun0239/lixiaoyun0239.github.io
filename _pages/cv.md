@@ -25,6 +25,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+* Xiaoyun Li and Ping Li. Generalization Error Analysis of Quantized Compressive Learning, NeurIPS 2019 (spotlight).
+* Xiaoyun Li and Ping Li. Random Projections with Asymmetric Quantization, NeurIPS 2019.
+* Ping Li, Xiaoyun Li and Cun-Hui Zhang. Re-randomized Densification for One Permutation Hashing and Bin-wise Consistent Weighted Sampling, NeurIPS 2019.
+
 
 Service and leadership
 ======
