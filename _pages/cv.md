@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Financial Mathematics, Shanghai Jiao Tong University, 2011-2015
-* Ph.D in Statistics, Rutgers University, New Brunswick, 2017-2021
+* B.S. in Financial Mathematics, Shanghai Jiao Tong University, Shanghai, China, 2011-2015
+* Ph.D in Statistics, Rutgers University, New Brunswick, USA, 2017-2021
 
 Work experience
 ======
