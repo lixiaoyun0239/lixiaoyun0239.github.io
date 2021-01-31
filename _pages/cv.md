@@ -17,8 +17,8 @@ Education
 
 Work experience
 ======
-* Teaching Assistant, Department of Statistics, Rutgers University
-   \-Introduction to Statistics, Advanced Simulation, Data Mining
+* Teaching Assistant, Department of Statistics, Rutgers University\
+   -Introduction to Statistics, Advanced Simulation, Data Mining
 
 * Cognitive Computing Lab (CCL), Baidu Research Institute
 
