@@ -24,7 +24,7 @@ Introduction to Statistics, Advanced Simulation, Data Mining
 
 Interests
 ======
-Statistics, Machine Learning, Randomized Algorithms, Optimization, Basketball, Guitar, Eating... and anything interesting!
+Statistics, Machine Learning, Randomized Algorithms, Optimization, Basketball, Guitar... and anything interesting!
 
 Publications
 ======
