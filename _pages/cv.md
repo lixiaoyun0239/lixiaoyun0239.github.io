@@ -39,7 +39,7 @@ Publications
 * Xiaoyun Li, Jie Gui and Ping Li. Randomized Kernel Multi-view Discriminant Analysis, ECAI 2020.
 * Ping Li, Xiaoyun Li, Weijie Zhao and Gennady Samorodnitsky. Consistent Sampling Through Extremal Process, The Web Conference (WWW) 2021.
 * Xiaoyun Li and Ping Li. Rejection Sampling for Weighted Jaccard Similarity Revisited, AAAI 2021.
-* Xiaoyun Li and Ping Li. One Sketch for All: Non-linear Random Features from Compressed Linear Measurements, AISTATS 2021.
+* Xiaoyun Li and Ping Li. One-Sketch-for-All: Non-linear Random Features from Compressed Linear Measurements, AISTATS 2021.
 * Xiangyi Chen, Xiaoyun Li and Ping Li. Towards Communication-Efficient Adaptive Gradient Method, FODS 2020.
 * Tan Yu, Xiaoyun Li and Ping Li. Fast and Compact Bilinear Pooling by Shifted Random Maclaurin, AAAI 2021.
 * Working papers and pre-prints are too lazy to show up here...
