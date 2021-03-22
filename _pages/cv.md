@@ -47,4 +47,4 @@ Publications
 Service and leadership
 ======
 * Conference Reviewer/PC Member: NeurIPS 2020, ICML 2020, AAAI 2021, ICLR 2021, IJCAI 2021 (SPC), AISTATS 2021, ICML 2021
-* Journal Reviewer: IEEE/CAA Journal of Automatica Sinica
+* Journal Reviewer: IEEE/CAA Journal of Automatica Sinica, IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)
