@@ -33,15 +33,15 @@ Publications
   {% endfor %}</ul>
 
 * **Xiaoyun Li** and Ping Li. Generalization Error Analysis of Quantized Compressive Learning, <span style="color:blue">NeurIPS 2019 (Oral spotlight)</span>.
-* **Xiaoyun Li** and Ping Li. Random Projections with Asymmetric Quantization, NeurIPS 2019.
-* Ping Li, **Xiaoyun Li** and Cun-Hui Zhang. Re-randomized Densification for One Permutation Hashing and Bin-wise Consistent Weighted Sampling, NeurIPS 2019.
-* **Xiaoyun Li**, Chenxi Wu and Ping Li. IVFS: Simple and Efficient Feature Selection for High Dimensional Topology Preservation, AAAI 2020.
-* **Xiaoyun Li**, Jie Gui and Ping Li. Randomized Kernel Multi-view Discriminant Analysis, ECAI 2020.
-* Ping Li, **Xiaoyun Li**, Weijie Zhao and Gennady Samorodnitsky. Consistent Sampling Through Extremal Process, The Web Conference (WWW) 2021.
-* **Xiaoyun Li** and Ping Li. Rejection Sampling for Weighted Jaccard Similarity Revisited, AAAI 2021.
-* **Xiaoyun Li** and Ping Li. One-Sketch-for-All: Non-linear Random Features from Compressed Linear Measurements, AISTATS 2021.
-* Xiangyi Chen, **Xiaoyun Li** and Ping Li. Towards Communication-Efficient Adaptive Gradient Method, FODS 2020.
-* Tan Yu, **Xiaoyun Li** and Ping Li. Fast and Compact Bilinear Pooling by Shifted Random Maclaurin, AAAI 2021.
+* **Xiaoyun Li** and Ping Li. Random Projections with Asymmetric Quantization, <span style="color:blue">NeurIPS 2019</span>.
+* Ping Li, **Xiaoyun Li** and Cun-Hui Zhang. Re-randomized Densification for One Permutation Hashing and Bin-wise Consistent Weighted Sampling, <span style="color:blue">NeurIPS 2019</span>.
+* **Xiaoyun Li**, Chenxi Wu and Ping Li. IVFS: Simple and Efficient Feature Selection for High Dimensional Topology Preservation, <span style="color:blue">AAAI 2020</span>.
+* **Xiaoyun Li**, Jie Gui and Ping Li. Randomized Kernel Multi-view Discriminant Analysis, <span style="color:blue">ECAI 2020</span>.
+* Ping Li, **Xiaoyun Li**, Weijie Zhao and Gennady Samorodnitsky. Consistent Sampling Through Extremal Process, <span style="color:blue">The Web Conference (WWW) 2021</span>.
+* **Xiaoyun Li** and Ping Li. Rejection Sampling for Weighted Jaccard Similarity Revisited, <span style="color:blue">AAAI 2021</span>.
+* **Xiaoyun Li** and Ping Li. One-Sketch-for-All: Non-linear Random Features from Compressed Linear Measurements, <span style="color:blue">AISTATS 2021</span>.
+* Xiangyi Chen, **Xiaoyun Li** and Ping Li. Towards Communication-Efficient Adaptive Gradient Method, <span style="color:blue">FODS 2020</span>.
+* Tan Yu, **Xiaoyun Li** and Ping Li. Fast and Compact Bilinear Pooling by Shifted Random Maclaurin, <span style="color:blue">AAAI 2021</span>.
 * Working papers and pre-prints are too lazy to show up here...
 
 Service and leadership
