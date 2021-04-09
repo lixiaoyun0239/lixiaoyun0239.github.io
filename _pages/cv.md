@@ -32,7 +32,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-* **Xiaoyun Li** and Ping Li. Generalization Error Analysis of Quantized Compressive Learning, NeurIPS 2019 (Oral spotlight).
+* **Xiaoyun Li** and Ping Li. Generalization Error Analysis of Quantized Compressive Learning, <span style="color:blue">NeurIPS 2019 (Oral spotlight)</span>.
 * **Xiaoyun Li** and Ping Li. Random Projections with Asymmetric Quantization, NeurIPS 2019.
 * Ping Li, **Xiaoyun Li** and Cun-Hui Zhang. Re-randomized Densification for One Permutation Hashing and Bin-wise Consistent Weighted Sampling, NeurIPS 2019.
 * **Xiaoyun Li**, Chenxi Wu and Ping Li. IVFS: Simple and Efficient Feature Selection for High Dimensional Topology Preservation, AAAI 2020.
@@ -47,4 +47,4 @@ Publications
 Service and leadership
 ======
 * Conference Reviewer/PC Member: NeurIPS 2020, ICML 2020, AAAI 2021, ICLR 2021, IJCAI 2021 (SPC), AISTATS 2021, ICML 2021
-* Journal Reviewer: IEEE/CAA Journal of Automatica Sinica, IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI)
+* Journal Reviewer: IEEE/CAA Journal of Automatica Sinica, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
