@@ -43,7 +43,7 @@ Publications
 * Xiangyi Chen, **Xiaoyun Li** and Ping Li. Towards Communication-Efficient Adaptive Gradient Method, <span style="color:blue">FODS 2020</span>.
 * Tan Yu, **Xiaoyun Li** and Ping Li. Fast and Compact Bilinear Pooling by Shifted Random Maclaurin, <span style="color:blue">AAAI 2021</span>.
 * **Xiaoyun Li** and Ping Li. Quantization Algorithms for Random Fourier Features, <span style="color:blue">ICML 2021</span>.
-* Zhiqiang Xu, Dong Li, Weijie Zhao, Xing Shen, Tianbo Huang, **Xiaoyun Li**, and Ping Li, Agile and Accurate CTR Prediction Model Training for Massive-Scale Online Advertising Systems, <span style="color:blue">SIGMOD 2021</span>.
+* Zhiqiang Xu, Dong Li, Weijie Zhao, Xing Shen, Tianbo Huang, **Xiaoyun Li**, and Ping Li. Agile and Accurate CTR Prediction Model Training for Massive-Scale Online Advertising Systems, <span style="color:blue">SIGMOD 2021</span>.
 * Working papers and pre-prints are too lazy to show up here...
 
 Service and leadership
