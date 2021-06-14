@@ -31,6 +31,8 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+(* means alphabetical order)
 
 * **Xiaoyun Li** and Ping Li. Generalization Error Analysis of Quantized Compressive Learning, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019 (Oral spotlight)</span>.
 * **Xiaoyun Li** and Ping Li. Random Projections with Asymmetric Quantization, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019</span>.
