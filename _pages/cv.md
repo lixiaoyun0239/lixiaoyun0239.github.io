@@ -36,7 +36,7 @@ Publications
 
 * **Xiaoyun Li** and Ping Li. Generalization Error Analysis of Quantized Compressive Learning, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019 (Oral spotlight)</span>.
 * **Xiaoyun Li** and Ping Li. Random Projections with Asymmetric Quantization, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019</span>.
-* Ping Li^*, **Xiaoyun Li^*** and Cun-Hui Zhang^*. Re-randomized Densification for One Permutation Hashing and Bin-wise Consistent Weighted Sampling, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019</span>.
+* Ping Li<sup>*</sup>, **Xiaoyun Li<sup>*</sup>** and Cun-Hui Zhang<sup>*</sup>. Re-randomized Densification for One Permutation Hashing and Bin-wise Consistent Weighted Sampling, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019</span>.
 * **Xiaoyun Li**, Chenxi Wu and Ping Li. IVFS: Simple and Efficient Feature Selection for High Dimensional Topology Preservation, <span style="color:blue">AAAI Conference on Artificial Intelligence (AAAI) 2020</span>.
 * **Xiaoyun Li**, Jie Gui and Ping Li. Randomized Kernel Multi-view Discriminant Analysis, <span style="color:blue">European Conference on Artificial Intelligence (ECAI) 2020</span>.
 * Ping Li, **Xiaoyun Li**, Weijie Zhao and Gennady Samorodnitsky. Consistent Sampling Through Extremal Process, <span style="color:blue">The Web Conference (WWW) 2021</span>.
