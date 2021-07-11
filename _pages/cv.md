@@ -16,7 +16,7 @@ Education
 * Ph.D in Statistics, Rutgers University, New Brunswick, USA, 2017-2020\
   I was fortunate to be advised by Prof. Ping Li.\
   PhD Thesis: Deep Compression for Random Features: Theory and Applications to Machine Learning.\
-  Committee: Prof. Ping Li, Prof. Cun-Hui Zhang, Prof. Min Xu, Prof. William Steiger\
+  Committee: Prof. Ping Li, Prof. Cun-Hui Zhang, Prof. Min Xu, Prof. William Steiger
 
 Work experience
 ======
