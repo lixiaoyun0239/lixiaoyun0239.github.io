@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Xiaoyun Li"
+title: "Xiaoyun Li (黎 潇云)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,6 +14,9 @@ Education
 * B.S. in Financial Mathematics, Shanghai Jiao Tong University, Shanghai, China, 2011-2015
 * M.S. in Financial Statistics and Risk Management, Rutgers University, New Brunswick, USA, 2015-2017
 * Ph.D in Statistics, Rutgers University, New Brunswick, USA, 2017-2020
+  I'm fortunate to be advised by Prof. Ping Li. 
+  PhD Thesis: Deep Compression for Random Features: Theory and Applications to Machine Learning.
+  Committee: Prof. Ping Li, Prof. Cun-Hui Zhang, Prof. Min Xu, Prof. William Steiger
 
 Work experience
 ======
