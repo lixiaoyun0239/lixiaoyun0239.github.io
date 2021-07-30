@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Xiaoyun Li (黎 潇云)"
+title: "Xiaoyun Li"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+My name is Xiaoyun Li (黎 潇云). I'm a research scientist at Baidu Research Institute, developing algorithms and theory for machine learning. Before joining Baidu, I received my Ph.D in statistics from Rutgers University.
 
 Education
 ======
