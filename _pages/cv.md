@@ -28,7 +28,7 @@ Work experience
 
 Interests
 ======
-Statistics, Machine Learning, Randomized Algorithms, Optimization, Deep Learning, Basketball, Guitar... and anything interesting!
+Statistics, Machine Learning, Randomized Algorithms, Search, Optimization, Deep Learning, Basketball, Guitar... and anything interesting!
 
 Publications
 ======
