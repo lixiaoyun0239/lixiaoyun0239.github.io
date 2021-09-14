@@ -39,8 +39,8 @@ Publications
 (* : alphabetical order)
 
 Recent Pre-prints:
-* **Xiaoyun Li** and Ping Li. *C-MinHash: Rigorously Reducing K Permutations to Two*, <span style="color:blue">[https://arxiv.org/abs/2109.03337](https://arxiv.org/abs/2109.03337), 2021</span>.
-* **Xiaoyun Li** and Ping Li. *C-MinHash: Practically Reducing Two Permutations to Just One*, <span style="color:blue">[https://arxiv.org/pdf/2109.04595](https://arxiv.org/pdf/2109.04595), 2021</span>.
+* **Xiaoyun Li** and Ping Li. *C-MinHash: Rigorously Reducing K Permutations to Two*, <span style="color:blue">[arXiv](https://arxiv.org/abs/2109.03337), 2021</span>.
+* **Xiaoyun Li** and Ping Li. *C-MinHash: Practically Reducing Two Permutations to Just One*, <span style="color:blue">[arXiv](https://arxiv.org/pdf/2109.04595), 2021</span>.
 
 Conference Publications:
 * **Xiaoyun Li** and Ping Li. *Generalization Error Analysis of Quantized Compressive Learning*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019 (Oral spotlight), [[paper](https://proceedings.neurips.cc/paper/2019/file/1a638db8311430c6c018bf21e1a0b7fb-Paper.pdf)]</span>.
