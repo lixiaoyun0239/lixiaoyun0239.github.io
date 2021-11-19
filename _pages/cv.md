@@ -58,5 +58,5 @@ Conference Publications:
 
 Service and leadership
 ======
-* Conference Reviewer/PC Member: NeurIPS 2020/2021, ICML 2020/2021, AAAI 2021, ICLR 2021/2022, IJCAI 2021 (SPC), AISTATS 2021
+* Conference Reviewer/PC Member: Since 2020, I have served as the reviewer/PC/SPC for NeurIPS, ICML, ICLR, AISTATS, WWW, AAAI, IJCAI conference
 * Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Machine Leaning, IEEE/CAA Journal of Automatica Sinica
