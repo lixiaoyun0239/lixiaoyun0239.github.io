@@ -36,7 +36,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-(* : alphabetical order)
+*(* : alphabetical order)*
 
 Randomized Algorithms in ML:
 * **Xiaoyun Li** and Ping Li. *C-MinHash: Rigorously Reducing K Permutations to Two*, <span style="color:blue">[[arXiv]](https://arxiv.org/abs/2109.03337), 2021</span>.
