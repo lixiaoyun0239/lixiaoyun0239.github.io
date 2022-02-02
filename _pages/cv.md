@@ -38,6 +38,14 @@ Publications
   
 <em>(* : alphabetical order)<em>
 
+Dimensionality Reduction & Compression:
+* **Xiaoyun Li** and Ping Li. *Generalization Error Analysis of Quantized Compressive Learning*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019 (Oral spotlight), [[paper](https://proceedings.neurips.cc/paper/2019/file/1a638db8311430c6c018bf21e1a0b7fb-Paper.pdf)]</span>.
+* **Xiaoyun Li** and Ping Li. *Random Projections with Asymmetric Quantization*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019, [[paper](https://papers.nips.cc/paper/2019/file/a32d7eeaae19821fd9ce317f3ce952a7-Paper.pdf)]</span>.
+* **Xiaoyun Li** and Ping Li. *Quantization Algorithms for Random Fourier Features*, <span style="color:blue">International Conference on Machine Learning (ICML) 2021, [[paper](http://proceedings.mlr.press/v139/li21i/li21i.pdf)]</span>.
+* **Xiaoyun Li** and Ping Li. *One-Sketch-for-All: Non-linear Random Features from Compressed Linear Measurements*, <span style="color:blue">International Conference on Artificial Intelligence and Statistics (AISTATS) 2021, [[paper](http://proceedings.mlr.press/v130/li21e/li21e.pdf)]</span>.
+* **Xiaoyun Li**, Chenxi Wu and Ping Li. *IVFS: Simple and Efficient Feature Selection for High Dimensional Topology Preservation*, <span style="color:blue">AAAI Conference on Artificial Intelligence (AAAI) 2020, [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/5908/5764)]</span>.
+* Zhiqiang Xu, Dong Li, Weijie Zhao, Xing Shen, Tianbo Huang, **Xiaoyun Li**, and Ping Li. *Agile and Accurate CTR Prediction Model Training for Massive-Scale Online Advertising Systems*, <span style="color:blue">ACM International Conference on Management of Data (SIGMOD) 2021, [[paper](https://dl.acm.org/doi/pdf/10.1145/3448016.3457236?casa_token=YtCGqkxI5V4AAAAA:qm3Hc8ROpwi0lCXL2qnf4BAbOVqKe08m-kJMAqGNAGBZ-QWo295cNRsD7FWU82bSrri1D9AEfg)]</span>.
+  
 Randomized Algorithms in ML:
 * **Xiaoyun Li** and Ping Li. *C-MinHash: Rigorously Reducing K Permutations to Two*, <span style="color:blue">[[arXiv]](https://arxiv.org/abs/2109.03337), 2021</span>.
 * **Xiaoyun Li** and Ping Li. *C-MinHash: Practically Reducing Two Permutations to Just One*, <span style="color:blue">[[arXiv]](https://arxiv.org/pdf/2109.04595), 2021</span>.
@@ -46,14 +54,6 @@ Randomized Algorithms in ML:
 * **Xiaoyun Li** and Ping Li. *Rejection Sampling for Weighted Jaccard Similarity Revisited*, <span style="color:blue">AAAI Conference on Artificial Intelligence (AAAI) 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/16543/16350)]</span>.
 * Peng Yang, **Xiaoyun Li** and Ping Li. *Adversarial Online Kernel Learning with Application on Graphs*, <span style="color:blue">International Conference on Data Mining (ICDM) 2021, To appear</span>.
 * **Xiaoyun Li**, Jie Gui and Ping Li. *Randomized Kernel Multi-view Discriminant Analysis*, <span style="color:blue">European Conference on Artificial Intelligence (ECAI) 2020, [[paper](https://ecai2020.eu/papers/1665_paper.pdf)]</span>.
-
-Dimensionality Reduction & Compression:
-* **Xiaoyun Li** and Ping Li. *Generalization Error Analysis of Quantized Compressive Learning*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019 (Oral spotlight), [[paper](https://proceedings.neurips.cc/paper/2019/file/1a638db8311430c6c018bf21e1a0b7fb-Paper.pdf)]</span>.
-* **Xiaoyun Li** and Ping Li. *Random Projections with Asymmetric Quantization*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019, [[paper](https://papers.nips.cc/paper/2019/file/a32d7eeaae19821fd9ce317f3ce952a7-Paper.pdf)]</span>.
-* **Xiaoyun Li** and Ping Li. *Quantization Algorithms for Random Fourier Features*, <span style="color:blue">International Conference on Machine Learning (ICML) 2021, [[paper](http://proceedings.mlr.press/v139/li21i/li21i.pdf)]</span>.
-* **Xiaoyun Li** and Ping Li. *One-Sketch-for-All: Non-linear Random Features from Compressed Linear Measurements*, <span style="color:blue">International Conference on Artificial Intelligence and Statistics (AISTATS) 2021, [[paper](http://proceedings.mlr.press/v130/li21e/li21e.pdf)]</span>.
-* **Xiaoyun Li**, Chenxi Wu and Ping Li. *IVFS: Simple and Efficient Feature Selection for High Dimensional Topology Preservation*, <span style="color:blue">AAAI Conference on Artificial Intelligence (AAAI) 2020, [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/5908/5764)]</span>.
-* Zhiqiang Xu, Dong Li, Weijie Zhao, Xing Shen, Tianbo Huang, **Xiaoyun Li**, and Ping Li. *Agile and Accurate CTR Prediction Model Training for Massive-Scale Online Advertising Systems*, <span style="color:blue">ACM International Conference on Management of Data (SIGMOD) 2021, [[paper](https://dl.acm.org/doi/pdf/10.1145/3448016.3457236?casa_token=YtCGqkxI5V4AAAAA:qm3Hc8ROpwi0lCXL2qnf4BAbOVqKe08m-kJMAqGNAGBZ-QWo295cNRsD7FWU82bSrri1D9AEfg)]</span>.
 
 Optimization & Distributed Training:
 * **Xiaoyun Li**, Belhal Karimi and Ping Li. *On Distributed Adaptive Optimization with Gradient Compression*, <span style="color:blue">International Conference on Learning Representations (ICLR) 2022, To appear</span>.
