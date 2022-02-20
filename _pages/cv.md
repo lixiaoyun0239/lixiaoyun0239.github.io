@@ -66,5 +66,5 @@ Computer Vision:
 
 Service and leadership
 ======
-* Conference Reviewer/PC Member: Since 2020, I have served as the reviewer/PC/SPC for NeurIPS, ICML, ICLR, AISTATS, WWW, AAAI, IJCAI conference
+* Conference Reviewer/PC Member: Since 2020, I have served as the reviewer/PC/SPC for NeurIPS, ICML, ICLR, AISTATS, KDD, WWW, AAAI, IJCAI conference
 * Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Machine Leaning, IEEE/CAA Journal of Automatica Sinica
