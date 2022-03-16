@@ -56,7 +56,7 @@ Randomized Algorithms, Hashing, Kernel Methods:
 * **Xiaoyun Li**, Jie Gui and Ping Li. *Randomized Kernel Multi-view Discriminant Analysis*, <span style="color:blue">European Conference on Artificial Intelligence (ECAI) 2020, [[paper](https://ecai2020.eu/papers/1665_paper.pdf)]</span>.
 
 Distributed/Federated Optimization:
-* **Xiaoyun Li**, Belhal Karimi and Ping Li. *On Distributed Adaptive Optimization with Gradient Compression*, <span style="color:blue">International Conference on Learning Representations (ICLR) 2022, To appear</span>.
+* **Xiaoyun Li**, Belhal Karimi and Ping Li. *On Distributed Adaptive Optimization with Gradient Compression*, <span style="color:blue">International Conference on Learning Representations (ICLR) 2022, [[paper](https://openreview.net/pdf?id=CI-xXX9dg9l)]</span>.
 * Xiangyi Chen, **Xiaoyun Li** and Ping Li. *Towards Communication-Efficient Adaptive Gradient Method*, <span style="color:blue">ACM-IMS Foundations of Data Science Conference (FODS) 2020, [[paper](https://dl.acm.org/doi/pdf/10.1145/3412815.3416891?casa_token=Fw_rn4pY5NUAAAAA:PCj4UKtaMtRSiF16yQV-mkuJeVbaxoIFiy8dz1TApXqMUGJEF_h7xmtqFuxhQlgR0GXBbs0Itw)]</span>.
 * Jun-Kun Wang, **Xiaoyun Li**, Belhal Karimi and Ping Li. *An Optimistic Acceleration of AMSGrad for Nonconvex Optimization*, <span style="color:blue">Asian Conference on Machine Learning (ACML) 2021, [[paper](https://proceedings.mlr.press/v157/wang21c/wang21c.pdf)]</span>.
 
