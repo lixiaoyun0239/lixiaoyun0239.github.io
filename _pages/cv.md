@@ -63,7 +63,9 @@ Distributed/Federated Optimization:
 Computer Vision:
 * Tan Yu, **Xiaoyun Li** and Ping Li. *Fast and Compact Bilinear Pooling by Shifted Random Maclaurin*, <span style="color:blue">AAAI Conference on Artificial Intelligence (AAAI) 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/16435/16242)]</span>.
 
-
+Causal Inference:
+* Xueyan Niu, **Xiaoyun Li** and Ping Li. *Learning Cluster Causal Diagrams: An Information-Theoretic Approach*, <span style="color:blue">International Joint Conference on Artificial Intelligence (IJCAI) 2022, To appear</span>.
+  
 Service and leadership
 ======
 * Conference Reviewer/PC Member: Since 2020, I have served as the reviewer/PC/SPC for NeurIPS, ICML, ICLR, AISTATS, KDD, WWW, AAAI, IJCAI conference
