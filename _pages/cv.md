@@ -40,7 +40,7 @@ Publications
 
 Pre-prints:
 * Chenglin Fan<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>Breaking the Linear Error Barrier in Differentially Private Graph Distance Release</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2204.14247.pdf)]</span>.
-* Farzin Haddadpour<sup>*</sup>, Belhal Karimi<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>FedSKETCH: Communication-Efficient and PrivateFederated Learning via Sketching</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2008.04975.pdf)]</span>.
+* Farzin Haddadpour<sup>*</sup>, Belhal Karimi<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>FedSKETCH: Communication-Efficient and Private Federated Learning via Sketching</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2008.04975.pdf)]</span>.
 * Long Feng<sup>*</sup>, Tiefeng Jiang<sup>*</sup>, **Xiaoyun Li<sup>*</sup>** and Binghui Liu<sup>*</sup>. <em>Asymptotic Independence of the Sum and Maximum of Dependent Random Variables with Applications to High-dimensional Tests</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2205.01638.pdf)]</span>.
   
 Dimensionality Reduction & Compression:
