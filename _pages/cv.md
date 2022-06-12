@@ -38,6 +38,9 @@ Publications
   
 <em>(* : alphabetical order)<em>
 
+Recent Pre-prints:
+* Long Feng, Tiefeng Jiang, **Xiaoyun Li** and Binghui Liu. *Asymptotic Independence of the Sum and Maximum of Dependent Random Variables with Applications to High-dimensional Tests*, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2205.01638.pdf)]</span>.
+  
 Dimensionality Reduction & Compression:
 * **Xiaoyun Li** and Ping Li. *Generalization Error Analysis of Quantized Compressive Learning*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019 (Oral spotlight), [[paper](https://proceedings.neurips.cc/paper/2019/file/1a638db8311430c6c018bf21e1a0b7fb-Paper.pdf)]</span>.
 * **Xiaoyun Li** and Ping Li. *Random Projections with Asymmetric Quantization*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019, [[paper](https://papers.nips.cc/paper/2019/file/a32d7eeaae19821fd9ce317f3ce952a7-Paper.pdf)]</span>.
