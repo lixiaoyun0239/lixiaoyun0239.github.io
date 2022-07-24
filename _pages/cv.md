@@ -30,7 +30,7 @@ Interests
 ======
 Statistics, Machine Learning, Randomized Algorithms, Information Retrieval, Privacy, Distributed Optimization, Deep Learning, Basketball, Guitar... and anything interesting!
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
