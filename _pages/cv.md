@@ -13,9 +13,9 @@ My name is Xiaoyun Li. I'm a research scientist at Baidu Research Institute, dev
 
 Education
 ======
-* B.S. in Financial Mathematics, Shanghai Jiao Tong University, Shanghai, China, 2011-2015
-* M.S. in Financial Statistics and Risk Management, Rutgers University, New Brunswick, USA, 2015-2017
-* Ph.D in Statistics, Rutgers University, New Brunswick, USA, 2017-2020\
+* B.S. Financial Mathematics, Shanghai Jiao Tong University, 2011-2015
+* M.S. Financial Statistics and Risk Management, Rutgers University, 2015-2017
+* Ph.D Statistics, Rutgers University, 2017-2020\
   I was fortunate to be advised by Prof. Ping Li.\
   PhD thesis committee: Prof. Ping Li, Prof. Cun-Hui Zhang, Prof. Min Xu, Prof. William Steiger.
 
@@ -74,4 +74,4 @@ Causal Inference:
 Service and leadership
 ======
 * Conference Reviewer/PC Member: Since 2020, I have served as the reviewer/PC/SPC for NeurIPS, ICML, ICLR, SODA, AISTATS, KDD, WWW, AAAI, IJCAI conference
-* Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Machine Leaning, IEEE/CAA Journal of Automatica Sinica
+* Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Machine Learning, IEEE/CAA Journal of Automatica Sinica
