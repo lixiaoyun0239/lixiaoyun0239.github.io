@@ -41,7 +41,7 @@ Selected Publications
 Pre-prints:
 * Farzin Haddadpour<sup>*</sup>, Belhal Karimi<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>FedSKETCH: Communication-Efficient and Private Federated Learning via Sketching</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2008.04975.pdf)]</span>.
 * Long Feng<sup>*</sup>, Tiefeng Jiang<sup>*</sup>, **Xiaoyun Li<sup>*</sup>** and Binghui Liu<sup>*</sup>. <em>Asymptotic Independence of the Sum and Maximum of Dependent Random Variables with Applications to High-dimensional Tests</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2205.01638.pdf)]</span>.
-  
+
 Dimensionality Reduction & Compression:
 * **Xiaoyun Li** and Ping Li. *Generalization Error Analysis of Quantized Compressive Learning*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019 (Oral spotlight), [[paper](https://proceedings.neurips.cc/paper/2019/file/1a638db8311430c6c018bf21e1a0b7fb-Paper.pdf)]</span>.
 * **Xiaoyun Li** and Ping Li. *Random Projections with Asymmetric Quantization*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019, [[paper](https://papers.nips.cc/paper/2019/file/a32d7eeaae19821fd9ce317f3ce952a7-Paper.pdf)]</span>.
@@ -65,12 +65,13 @@ Distributed/Federated Optimization:
 * Xiangyi Chen, **Xiaoyun Li** and Ping Li. *Towards Communication-Efficient Adaptive Gradient Method*, <span style="color:blue">ACM-IMS Foundations of Data Science Conference (FODS) 2020, [[paper](https://dl.acm.org/doi/pdf/10.1145/3412815.3416891?casa_token=Fw_rn4pY5NUAAAAA:PCj4UKtaMtRSiF16yQV-mkuJeVbaxoIFiy8dz1TApXqMUGJEF_h7xmtqFuxhQlgR0GXBbs0Itw)]</span>.
 * Jun-Kun Wang, **Xiaoyun Li**, Belhal Karimi and Ping Li. *An Optimistic Acceleration of AMSGrad for Nonconvex Optimization*, <span style="color:blue">Asian Conference on Machine Learning (ACML) 2021, [[paper](https://proceedings.mlr.press/v157/wang21c/wang21c.pdf)]</span>.
 
-Computer Vision:
-* Tan Yu, **Xiaoyun Li** and Ping Li. *Fast and Compact Bilinear Pooling by Shifted Random Maclaurin*, <span style="color:blue">AAAI Conference on Artificial Intelligence (AAAI) 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/16435/16242)]</span>.
-
 Causal Inference and Privacy:
 * Chenglin Fan<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>Private Graph All-Pairwise-Shortest-Path Distance Release with Improved Error Rate</em>, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2022, to appear [[Arxiv](https://arxiv.org/pdf/2204.14247.pdf)]</span>.
 * Xueyan Niu, **Xiaoyun Li** and Ping Li. *Learning Cluster Causal Diagrams: An Information-Theoretic Approach*, <span style="color:blue">International Joint Conference on Artificial Intelligence (IJCAI) 2022, [[paper](https://www.ijcai.org/proceedings/2022/0675.pdf)]</span>.
+  
+Computer Vision:
+* Tan Yu, **Xiaoyun Li** and Ping Li. *Fast and Compact Bilinear Pooling by Shifted Random Maclaurin*, <span style="color:blue">AAAI Conference on Artificial Intelligence (AAAI) 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/16435/16242)]</span>.
+
   
 Service and leadership
 ======
