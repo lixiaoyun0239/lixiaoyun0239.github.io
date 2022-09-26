@@ -30,6 +30,11 @@ Interests
 ======
 Statistics, Machine Learning, Randomized Algorithms, Information Retrieval, Privacy, Distributed Optimization, Deep Learning, Basketball, Guitar... and anything interesting!
 
+Service and leadership
+======
+* Conference Reviewer/PC Member: Since 2020, I have served as the reviewer/PC/SPC for NeurIPS, ICML, ICLR, SODA, AISTATS, KDD, WWW, AAAI, IJCAI conference
+* Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Machine Learning, IEEE/CAA Journal of Automatica Sinica
+
 Selected Publications
 ======
   <ul>{% for post in site.publications %}
@@ -73,7 +78,3 @@ Computer Vision:
 * Tan Yu, **Xiaoyun Li** and Ping Li. *Fast and Compact Bilinear Pooling by Shifted Random Maclaurin*, <span style="color:blue">AAAI Conference on Artificial Intelligence (AAAI) 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/16435/16242)]</span>.
 
   
-Service and leadership
-======
-* Conference Reviewer/PC Member: Since 2020, I have served as the reviewer/PC/SPC for NeurIPS, ICML, ICLR, SODA, AISTATS, KDD, WWW, AAAI, IJCAI conference
-* Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Machine Learning, IEEE/CAA Journal of Automatica Sinica
