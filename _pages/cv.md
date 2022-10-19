@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My name is Xiaoyun Li. I'm a research scientist at Baidu Research Institute, developing algorithms and theory for big data and machine learning. Before joining Baidu, I received my Ph.D in statistics from Rutgers University.
+My name is Xiaoyun Li. I'm a machine learning scientist at LinkedIn, developing algorithms and theory for big data and machine learning. Before joining Linkedin, I was a research scientist at Baidu Research. 
 
 Education
 ======
@@ -25,6 +25,8 @@ Work experience
    -- Courses: Introduction to Statistics, Advanced Simulation, Data Mining
 
 * Baidu Research Institute
+
+* Linkedin
 
 Interests
 ======
