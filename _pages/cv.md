@@ -76,7 +76,7 @@ Selected Publications
   
   
 **Causal Inference and Privacy:**
-* Chenglin Fan<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>Private Graph All-Pairwise-Shortest-Path Distance Release with Improved Error Rate</em>, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2022, to appear [[paper](https://openreview.net/pdf?id=R2XFXfK0SVe)]</span>.
+* Chenglin Fan<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>Private Graph All-Pairwise-Shortest-Path Distance Release with Improved Error Rate</em>, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2022, [[paper](https://openreview.net/pdf?id=R2XFXfK0SVe)]</span>.
 * Xueyan Niu, **Xiaoyun Li** and Ping Li. *Learning Cluster Causal Diagrams: An Information-Theoretic Approach*, <span style="color:blue">International Joint Conference on Artificial Intelligence (IJCAI) 2022, [[paper](https://www.ijcai.org/proceedings/2022/0675.pdf)]</span>.
   
 **Computer Vision:**
