@@ -17,7 +17,7 @@ Education
 * M.S. Financial Statistics and Risk Management, Rutgers University, 2015-2017
 * Ph.D Statistics, Rutgers University, 2017-2021\
   I was fortunate to be advised by Prof. Ping Li.\
-  PhD thesis committee: Prof. Ping Li, Prof. Cun-Hui Zhang, Prof. Min Xu, Prof. William Steiger.
+  Thesis committee: Prof. Ping Li, Prof. Cun-Hui Zhang, Prof. Min Xu, Prof. William Steiger.
 
 Work experience
 ======
