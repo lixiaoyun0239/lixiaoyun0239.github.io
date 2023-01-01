@@ -16,7 +16,7 @@ Education
 * B.S. Financial Mathematics, Shanghai Jiao Tong University, 2011-2015
 * M.S. Financial Statistics and Risk Management, Rutgers University, 2015-2017
 * Ph.D Statistics, Rutgers University, 2017-2021\
-  I was fortunate to be advised by Prof. Ping Li.\
+  I was fortunate to work with Prof. Ping Li.\
   Thesis committee: Prof. Ping Li, Prof. Cun-Hui Zhang, Prof. Min Xu, Prof. William Steiger.
 
 Work Experience
