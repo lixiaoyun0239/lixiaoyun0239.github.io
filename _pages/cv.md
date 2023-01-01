@@ -19,7 +19,7 @@ Education
   I was fortunate to be advised by Prof. Ping Li.\
   Thesis committee: Prof. Ping Li, Prof. Cun-Hui Zhang, Prof. Min Xu, Prof. William Steiger.
 
-Work experience
+Work Experience
 ======
 * Teaching Assistant, Department of Statistics, Rutgers University\
    -- Courses: Introduction to Statistics, Advanced Simulation, Data Mining
@@ -32,7 +32,7 @@ Interests
 ======
 Statistics, Machine Learning, Randomized Algorithms, Information Retrieval, Privacy, Distributed Optimization, Deep Learning, Basketball, Guitar... and anything interesting!
 
-Service and leadership
+Academic Services
 ======
 * Conference Reviewer/PC Member: Since 2020, I have served as the reviewer/PC/SPC for NeurIPS, ICML, ICLR, SODA, AISTATS, KDD, WWW, AAAI, IJCAI conference
 * Journal Reviewer: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Machine Learning, IEEE/CAA Journal of Automatica Sinica
