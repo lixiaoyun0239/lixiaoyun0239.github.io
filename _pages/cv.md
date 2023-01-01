@@ -22,11 +22,11 @@ Education
 Work Experience
 ======
 * Teaching Assistant, Department of Statistics, Rutgers University\
-   -- Courses: Introduction to Statistics, Advanced Simulation, Data Mining
+   -- Introduction to Statistics, Advanced Simulation, Data Mining
 
 * Baidu Research Institute
 
-* Linkedin
+* LinkedIn
 
 Interests
 ======
