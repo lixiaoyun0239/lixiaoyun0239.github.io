@@ -45,10 +45,10 @@ Selected Publications
   
 <em>(* : alphabetical order)<em>
 
-**Pre-prints:**
+**New:**
 * **Xiaoyun Li** and Ping Li. <em>Analysis of Error Feedback in Federated Non-convex Optimization with Biased Compression</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2211.14292.pdf)]</span>.
+* Long Feng<sup>*</sup>, Tiefeng Jiang<sup>*</sup>, **Xiaoyun Li<sup>*</sup>** and Binghui Liu<sup>*</sup>. <em>Asymptotic Independence of the Sum and Maximum of Dependent Random Variables with Applications to High-dimensional Tests</em>, <span style="color:blue">Statistica Sinica (2022), [[paper](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0354_na.pdf)]</span>.
 * Farzin Haddadpour<sup>*</sup>, Belhal Karimi<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>FedSKETCH: Communication-Efficient and Private Federated Learning via Sketching</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2008.04975.pdf)]</span>.
-* Long Feng<sup>*</sup>, Tiefeng Jiang<sup>*</sup>, **Xiaoyun Li<sup>*</sup>** and Binghui Liu<sup>*</sup>. <em>Asymptotic Independence of the Sum and Maximum of Dependent Random Variables with Applications to High-dimensional Tests</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2205.01638.pdf)]</span>.
 
 **Dimensionality Reduction & Compression:**
 * **Xiaoyun Li** and Ping Li. *Generalization Error Analysis of Quantized Compressive Learning*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019 (Oral spotlight), [[paper](https://proceedings.neurips.cc/paper/2019/file/1a638db8311430c6c018bf21e1a0b7fb-Paper.pdf)]</span>.
