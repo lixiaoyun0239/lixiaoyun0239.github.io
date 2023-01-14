@@ -13,9 +13,9 @@ My name is Xiaoyun Li. I'm a machine learning scientist at LinkedIn, developing 
 
 Education
 ======
-* B.S. Financial Mathematics, Shanghai Jiao Tong University, 2011-2015
-* M.S. Financial Statistics and Risk Management, Rutgers University, 2015-2017
-* Ph.D Statistics, Rutgers University, 2017-2021\
+* B.S. Financial Mathematics, Shanghai Jiao Tong University
+* M.S. Financial Statistics and Risk Management, Rutgers University, 2017
+* Ph.D Statistics, Rutgers University, 2021\
   I was fortunate to work with <span style="color:blue">[Prof. Ping Li](https://pltrees.github.io/)</span>.\
   Thesis committee: Prof. Ping Li, Prof. Cun-Hui Zhang, Prof. Min Xu, Prof. William Steiger.
 
