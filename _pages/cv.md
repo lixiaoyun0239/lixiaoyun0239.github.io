@@ -84,3 +84,19 @@ Selected Publications
 **Computer Vision:**
 * Tan Yu, **Xiaoyun Li** and Ping Li. *Fast and Compact Bilinear Pooling by Shifted Random Maclaurin*, <span style="color:blue">AAAI Conference on Artificial Intelligence (AAAI) 2021, [[paper](https://ojs.aaai.org/index.php/AAAI/article/download/16435/16242)]</span>.
 
+
+  <!-- Default Statcounter code for Personal https://lixiaoyun0239.github.io/cv/
+-->
+<script type="text/javascript">
+var sc_project=12857638; 
+var sc_invisible=1; 
+var sc_security="931753eb"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><a title="Web Analytics Made Easy -
+Statcounter" href="https://statcounter.com/" target="_blank"><img
+class="statcounter" src="https://c.statcounter.com/12857638/0/931753eb/1/"
+alt="Web Analytics Made Easy - Statcounter"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
