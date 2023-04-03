@@ -24,7 +24,7 @@ Work Experience
 * Teaching Assistant, Department of Statistics, Rutgers University\
    -- Introduction to Statistics, Advanced Simulation, Data Mining
 
-* Baidu Research Institute
+* Baidu Research
 
 * LinkedIn
 
