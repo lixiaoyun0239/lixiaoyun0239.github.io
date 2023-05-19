@@ -46,7 +46,7 @@ Selected Publications
 <em>(* : alphabetical order)<em>
 
 **News:**
-* **Xiaoyun Li** and Ping Li. <em>Analysis of Error Feedback in Federated Non-convex Optimization with Biased Compression: Linear Speedup and Partial Participation</em>, <span style="color:blue">International Conference on Machine Learning (ICML) 2023 (Oral) [[Arxiv](https://arxiv.org/pdf/2211.14292.pdf)]</span>.
+* **Xiaoyun Li** and Ping Li. <em>Analysis of Error Feedback in Federated Non-convex Optimization with Biased Compression: Fast Convergence and Partial Participation</em>, <span style="color:blue">International Conference on Machine Learning (ICML) 2023 (Oral) [[Arxiv](https://arxiv.org/pdf/2211.14292.pdf)]</span>.
 * Chenglin Fan<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>LSDS++: Dual Sampling for Accelerated k-means++</em>, <span style="color:blue">International Conference on Machine Learning (ICML) 2023, to appear</span>.
 * Xinyi Zheng, Weijie Zhao, **Xiaoyun Li** and Ping Li. <em>Building K-Anonymous User Cohorts with Consecutive Consistent Weighted Sampling (CCWS)</em>, <span style="color:blue">International ACM SIGIR Conference on Information Retrieval (SIGIR) 2023</span>.
 * Ping Li and **Xiaoyun Li**. <em>OPORP: One Permutation + One Random Projection</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2302.03505.pdf)]</span>.
