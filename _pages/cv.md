@@ -47,7 +47,7 @@ Selected Publications
 
 **News:**
 * **Xiaoyun Li** and Ping Li. <em>Analysis of Error Feedback in Federated Non-convex Optimization with Biased Compression: Fast Convergence and Partial Participation</em>, <span style="color:blue">International Conference on Machine Learning (ICML) 2023 (Oral) [[paper](https://openreview.net/pdf?id=wbs1fKLfOe)]</span>.
-* Chenglin Fan<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>LSDS++: Dual Sampling for Accelerated k-means++</em>, <span style="color:blue">International Conference on Machine Learning (ICML) 2023, to appear</span>.
+* Chenglin Fan<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>LSDS++: Dual Sampling for Accelerated k-means++</em>, <span style="color:blue">International Conference on Machine Learning (ICML) 2023 [[paper](https://openreview.net/pdf?id=Im0XEixDmR)]</span>.
 * Xinyi Zheng, Weijie Zhao, **Xiaoyun Li** and Ping Li. <em>Building K-Anonymous User Cohorts with Consecutive Consistent Weighted Sampling (CCWS)</em>, <span style="color:blue">International ACM SIGIR Conference on Information Retrieval (SIGIR) 2023</span>.
 * Ping Li and **Xiaoyun Li**. <em>OPORP: One Permutation + One Random Projection</em>, <span style="color:blue"> SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023 [[Arxiv](https://arxiv.org/pdf/2302.03505.pdf)]</span>.
 * Long Feng<sup>*</sup>, Tiefeng Jiang<sup>*</sup>, **Xiaoyun Li<sup>*</sup>** and Binghui Liu<sup>*</sup>. <em>Asymptotic Independence of the Sum and Maximum of Dependent Random Variables with Applications to High-dimensional Tests</em>, <span style="color:blue">Statistica Sinica (2023), [[paper](https://arxiv.org/pdf/2205.01638.pdf)]</span>.
