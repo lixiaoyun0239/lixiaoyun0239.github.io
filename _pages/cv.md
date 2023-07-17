@@ -75,8 +75,8 @@ Selected Publications
 * **Xiaoyun Li**, Belhal Karimi and Ping Li. *On Distributed Adaptive Optimization with Gradient Compression*, <span style="color:blue">International Conference on Learning Representations (ICLR) 2022, [[paper](https://openreview.net/pdf?id=CI-xXX9dg9l)]</span>.
 * Xiangyi Chen, **Xiaoyun Li** and Ping Li. *Towards Communication-Efficient Adaptive Gradient Method*, <span style="color:blue">ACM-IMS Foundations of Data Science Conference (FODS) 2020, [[paper](https://dl.acm.org/doi/pdf/10.1145/3412815.3416891?casa_token=Fw_rn4pY5NUAAAAA:PCj4UKtaMtRSiF16yQV-mkuJeVbaxoIFiy8dz1TApXqMUGJEF_h7xmtqFuxhQlgR0GXBbs0Itw)]</span>.
 * Jun-Kun Wang, **Xiaoyun Li**, Belhal Karimi and Ping Li. *An Optimistic Acceleration of AMSGrad for Nonconvex Optimization*, <span style="color:blue">Asian Conference on Machine Learning (ACML) 2021, [[paper](https://proceedings.mlr.press/v157/wang21c/wang21c.pdf)]</span>.
-* Weijie Zhao, Xuewu Jiao, Mingqing Hu, **Xiaoyun Li**, Xiangyu Zhang, and Ping Li. *Communication-Efficient Terabyte-Scale Model Training Framework for Online Advertising*, <span style="color:blue">IEEE International Conference on Big Data (IEEE BigData), to appear</span>.
-  
+* Weijie Zhao, Xuewu Jiao, Mingqing Hu, **Xiaoyun Li**, Xiangyu Zhang, and Ping Li. *Communication-Efficient Terabyte-Scale Model Training Framework for Online Advertising*, <span style="color:blue">IEEE International Conference on Big Data (IEEE BigData) 2023, to appear</span>.
+* Belhal Karimi<sup>*</sup>, Ping Li<sup>*</sup>, and **Xiaoyun Li<sup>*</sup>**. <em>Fed-LAMB: Layer-wise and Dimension-wise Locally Adaptive Federated Learning</em>, <span style="color:blue">Conference on Uncertainty in Artificial Intelligence (UAI) 2023 [[paper](https://proceedings.mlr.press/v216/karimi23a/karimi23a.pdf)]</span>.
   
 **Privacy, Causal Inference:**
 * Chenglin Fan<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>Private Graph All-Pairwise-Shortest-Path Distance Release with Improved Error Rate</em>, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2022, [[paper](https://openreview.net/pdf?id=R2XFXfK0SVe)]</span>.
