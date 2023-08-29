@@ -46,7 +46,7 @@ Selected Publications
 <em>(* : alphabetical order)<em>
 
 **News:**
-* Xinmeng Huang, Ping Li and **Xiaoyun Li**. <em>Stochastic Controlled Averaging for Federated Learning with Communication Compression</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2308.08165.pdf)]</span>.
+* Xinmeng Huang<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>Stochastic Controlled Averaging for Federated Learning with Communication Compression</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2308.08165.pdf)]</span>.
 * **Xiaoyun Li** and Ping Li. <em>Analysis of Error Feedback in Federated Non-convex Optimization with Biased Compression: Fast Convergence and Partial Participation</em>, <span style="color:blue">International Conference on Machine Learning (ICML) 2023 (Oral) [[paper](https://openreview.net/pdf?id=wbs1fKLfOe)]</span>.
 * Chenglin Fan<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>LSDS++: Dual Sampling for Accelerated k-means++</em>, <span style="color:blue">International Conference on Machine Learning (ICML) 2023 [[paper](https://openreview.net/pdf?id=Im0XEixDmR)]</span>.
 * Ping Li and **Xiaoyun Li**. <em>OPORP: One Permutation + One Random Projection</em>, <span style="color:blue"> SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023 [[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599457)]</span>.
