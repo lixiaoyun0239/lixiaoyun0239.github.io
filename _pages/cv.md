@@ -46,11 +46,9 @@ Selected Publications
 <em>(* : alphabetical order)<em>
 
 **News:**
+* Two papers accepted to NeurIPS 2023
 * Xinmeng Huang<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>Stochastic Controlled Averaging for Federated Learning with Communication Compression</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2308.08165.pdf)]</span>.
-* **Xiaoyun Li** and Ping Li. <em>Analysis of Error Feedback in Federated Non-convex Optimization with Biased Compression: Fast Convergence and Partial Participation</em>, <span style="color:blue">International Conference on Machine Learning (ICML) 2023 (Oral) [[paper](https://openreview.net/pdf?id=wbs1fKLfOe)]</span>.
-* Chenglin Fan<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>LSDS++: Dual Sampling for Accelerated k-means++</em>, <span style="color:blue">International Conference on Machine Learning (ICML) 2023 [[paper](https://openreview.net/pdf?id=Im0XEixDmR)]</span>.
-* Ping Li and **Xiaoyun Li**. <em>OPORP: One Permutation + One Random Projection</em>, <span style="color:blue"> SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023 [[paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599457)]</span>.
-* Long Feng<sup>*</sup>, Tiefeng Jiang<sup>*</sup>, **Xiaoyun Li<sup>*</sup>** and Binghui Liu<sup>*</sup>. <em>Asymptotic Independence of the Sum and Maximum of Dependent Random Variables with Applications to High-dimensional Tests</em>, <span style="color:blue">Statistica Sinica (2023), [[paper](https://arxiv.org/pdf/2205.01638.pdf)]</span>.
+* Two papers accepted to ICML 2023
 
 **Dimensionality Reduction & Compression:**
 * **Xiaoyun Li** and Ping Li. *Generalization Error Analysis of Quantized Compressive Learning*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019 (Oral spotlight), [[paper](https://proceedings.neurips.cc/paper/2019/file/1a638db8311430c6c018bf21e1a0b7fb-Paper.pdf)]</span>.
