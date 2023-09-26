@@ -46,9 +46,9 @@ Selected Publications
 <em>(* : alphabetical order)<em>
 
 **News:**
-* Two papers accepted to NeurIPS 2023
+* Two papers on differentially private sketching and clustering are accepted to NeurIPS 2023
 * Xinmeng Huang<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>Stochastic Controlled Averaging for Federated Learning with Communication Compression</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2308.08165.pdf)]</span>.
-* Two papers accepted to ICML 2023
+* Two papers on federated learning and clustering are accepted to ICML 2023
 
 **Dimensionality Reduction & Compression:**
 * **Xiaoyun Li** and Ping Li. *Generalization Error Analysis of Quantized Compressive Learning*, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2019 (Oral spotlight), [[paper](https://proceedings.neurips.cc/paper/2019/file/1a638db8311430c6c018bf21e1a0b7fb-Paper.pdf)]</span>.
