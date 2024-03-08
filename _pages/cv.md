@@ -46,8 +46,8 @@ Selected Publications
 <em>(* : alphabetical order)<em>
 
 **News:**
+* Xinmeng Huang<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>Stochastic Controlled Averaging for Federated Learning with Communication Compression</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2308.08165.pdf)]</span> is accepted to <span style="color:blue">ICLR 2024 as spotlight paper</span>.
 * Two papers on sketching and clustering with differential privacy are accepted to <span style="color:blue">NeurIPS 2023</span>.
-* Xinmeng Huang<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>Stochastic Controlled Averaging for Federated Learning with Communication Compression</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2308.08165.pdf)]</span>.
 * Two papers on federated learning and clustering are accepted to <span style="color:blue">ICML 2023</span>.
 
 **Dimensionality Reduction & Compression:**
@@ -81,6 +81,8 @@ Selected Publications
 
 **Privacy, Clustering, Statistics:**
 * Long Feng<sup>*</sup>, Tiefeng Jiang<sup>*</sup>, **Xiaoyun Li<sup>*</sup>** and Binghui Liu<sup>*</sup>. <em>Asymptotic Independence of the Sum and Maximum of Dependent Random Variables with Applications to High-dimensional Tests</em>, <span style="color:blue">Statistica Sinica (2023), [[paper](https://arxiv.org/pdf/2205.01638.pdf)]</span>.
+* Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>Smooth Flipping Probability for Differential Private Sign Random Projection Methods</em>, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2023 [[paper](https://openreview.net/pdf?id=GEMHw2sd9S)]</span>.
+* Chenglin Fan<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>k-Median Clustering via Metric Embedding: Towards Better Initialization with Differential Privacy</em>, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2023 [[paper](https://openreview.net/forum?id=9zV2OXCrVF)]</span>.
 * Chenglin Fan<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>LSDS++: Dual Sampling for Accelerated k-means++</em>, <span style="color:blue">International Conference on Machine Learning (ICML) 2023 [[paper](https://openreview.net/pdf?id=Im0XEixDmR)]</span>.
 * Chenglin Fan<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>Private Graph All-Pairwise-Shortest-Path Distance Release with Improved Error Rate</em>, <span style="color:blue">Neural Information Processing Systems (NeurIPS) 2022, [[paper](https://openreview.net/pdf?id=R2XFXfK0SVe)]</span>.
 * Huang Fang, **Xiaoyun Li**, Chenglin Fan and Ping Li. <em>Improved Convergence of Differential Private SGD with Gradient Clipping</em>, <span style="color:blue">International Conference on Learning Representations (ICLR) 2023, [[paper](https://openreview.net/pdf?id=FRLswckPXQ5)]</span>.
