@@ -43,7 +43,7 @@ Selected Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<em>(* : alphabetical order)<em>
+<em>( * : alphabetical order)<em>
 
 **News:**
 * Xinmeng Huang<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>Stochastic Controlled Averaging for Federated Learning with Communication Compression</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2308.08165.pdf)]</span> is accepted to <span style="color:blue">ICLR 2024 as spotlight paper</span>.
