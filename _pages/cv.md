@@ -46,7 +46,7 @@ Selected Publications
 <em>( * : alphabetical order)<em>
 
 **News:**
-* Xinmeng Huang<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>Stochastic Controlled Averaging for Federated Learning with Communication Compression</em>, <span style="color:blue">[[Arxiv](https://arxiv.org/pdf/2308.08165.pdf)]</span> is accepted to <span style="color:blue">ICLR 2024 as spotlight paper</span>.
+* Xinmeng Huang<sup>*</sup>, Ping Li<sup>*</sup> and **Xiaoyun Li<sup>*</sup>**. <em>Stochastic Controlled Averaging for Federated Learning with Communication Compression</em>, <span style="color:blue">[[paper](https://openreview.net/pdf?id=jj5ZjZsWJe)]</span> is accepted to <span style="color:blue">ICLR 2024 as spotlight paper</span>.
 * Two papers on sketching and clustering with differential privacy are accepted to <span style="color:blue">NeurIPS 2023</span>.
 * Two papers on federated learning and clustering are accepted to <span style="color:blue">ICML 2023</span>.
 
